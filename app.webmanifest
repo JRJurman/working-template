@@ -1,0 +1,14 @@
+{
+	"name": "[[TITLE]]",
+	"scope": "https://jrjurman.com/[[URL]]/",
+	"description": "[[DESCRIPTION]]",
+	"display": "standalone",
+	"icons": [
+		{
+			"src": "https://jrjurman.com/[[URL]]/favicon.png",
+			"sizes": "any",
+			"type": "image/png"
+		}
+	],
+	"start_url": "/[[URL]"
+}
